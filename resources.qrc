@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lc_nextpage.png</file>
+        <file>lc_previouspage.png</file>
+    </qresource>
+</RCC>
